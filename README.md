@@ -24,7 +24,7 @@ Excluding the pages on the menu, the main application takes place all in one pag
 -- Web Standards:<br>
 Again, something that I have tried to make a priority in my development is to adhere to the current Web Standards, and not to include any technologies in a finished production project that doesn't fulfill the correct experience on all devices. The same goes to any tools that may be deprecated in the near future. Leading to another decison in using Polymer, as it is pushing the standards across the board and is beind adopted by virtually all browser vendors.
 
-<b>3: Thank You's<b>
+<b>3: Thank You's</b>
 This project, whilst being developed by me alone, would not have been completed without the help of others. With that, I would like to thank the following:
 <p>My friends and family that have supported me no matter what. For listening to me talk about Web Development despite not even being remotely interested, I know I can be a snooze, but I appreciate it all the same!</p>
 <p>Canterbury Christ Church University. Without the University, I would not have found my calling in web design, and thanks to the Digital Media course for helping me with pursuing my interest.</p>
