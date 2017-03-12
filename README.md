@@ -27,11 +27,11 @@ Again, something that I have tried to make a priority in my development is to ad
 While this is something I nearly accomplished, I felt it was a secondary objective in the timeframe of my development process.
 However the main principle of this feature is as follows: When visiting the site, be it on a browser or on your homescreen version, go ahead and turn off your connection to the internet and reload the page. You should find that the app still works! This is all thanks to the Service Worker put in place and taking advantage of the Local Storage on your device. This is another feature that the web has been able to achieve in recent years, drawing comparisons from it's Native App counterpart.
 
-<b>3: Thank You's</b><br>
+<b>4: Thank You's</b><br>
 This project, whilst being developed by me alone, would not have been completed without the help of others. With that, I would like to thank the following:
-<p>My friends and family that have supported me no matter what. For listening to me talk about Web Development despite not even being remotely interested, I know I can be a snooze, but I appreciate it all the same!</p>
+<p>My friends and family that have supported me no matter what. For listening to me talk about Web Development despite not even being remotely interested, I really appreciate it</p>
 <p>Canterbury Christ Church University. Without the University, I would not have found my calling in web design, and thanks to the Digital Media course for helping me with pursuing my interest.</p>
-<p>In particular, a special thanks to Tim Long, the course director of Digital Media. The help and guidance he has given me over the three years has been great. I found myself constantly challenging my own work through you and pushing it further with each project. Thank you for also helping me gain to the University's Shell, as it is exclusively designed for those studying Computer Science.</p>
+<p>In particular, a special thanks to Tim Long, the course director of Digital Media. The help and guidance he has given me over the three years has been great. I found myself constantly challenging my own work through him and pushing it further with each project. Thank you for also helping me gain to the University's Shell, as it is exclusively designed for those studying Computer Science.</p>
 <p>My course peers. Thank you for the good times over the three years, your talent and skills are something that inspired me to create this application. Extra thank you to those of you who set aside a few minutes of their time to be a part of my project.</p>
 <p>The Polymer and Firebase team. Through your summit, documentation, tools and otherwise outstanding support to the community, without you all, I would not have been able to make Graftergrads what it is now.</p>
 <p><b>I hope to keep pushing this further as an idea, but for now thank you everyone and enjoy! - Jack Gordon</b></p>
