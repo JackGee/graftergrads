@@ -2,7 +2,7 @@
 Graftergrads - Hardworking Undergraduates
 
 <b>1: Description</b><br>
-Graftergrads is a project that I have made which is powered by Polymer and Firebase. It's fundamental use is for the class of Digital Media 2017 at Canterbury Christ Church University (CCCU) to have a profile to showcase themselves in a professional environment. The decision to use polymer as Graftergrads's main library comes down to a few things.<br>
+Graftergrads is a project that I have made which is powered by Polymer and Firebase. It's fundamental use is for the class of Digital Media 2017 at Canterbury Christ Church University (CCCU) to have a profile to showcase themselves in a professional environment. It's optimized use is for the mobile environment and the reasons why are listed in the features section of this readme. The decision to use polymer as Graftergrads's main library comes down to a few things.<br>
 Firstly, as a student, I find it pivotal to try and keep up to date with the latest technologies and/or new concepts to adopt into my own work. I feel it demonstrates that I am always keen to learn, which in web development's very nature is a requirement.<br>
 Secondly, the technology and features that are loaded into Polymer is very exciting, and I for one am an advocate of Progressive Web App's to take charge in the future to allow the internet to flourish into a great experience for any environment.<br>
 And lastly, after some general research online about Polymer, I found it in my best interest to attend the Polymer Summit held in London. The summit really paved the way for me to make Polymer and Firebase my firm choice in development for this project. Watching the team behind Chrome, Polymer and Firebase talk about the potential of the Internet using their tools with such passion resonated with me.
@@ -19,7 +19,8 @@ If you have an Android device (such as a phone), go ahead and open the url to th
 Excluding the pages on the menu, the main application takes place all in one page, going from a thumbnail scroll view, to a full page view, without page changes or major loading times in between. Again this is thanks to the power of Polymer, which through animating, allows the web components to seamlessly inject into the main page. Through more development time, I would like to complete routing to allow more pages in the application to exist and follow the same pattern.
 
 -- Web Standards:<br>
-Again, something that I have tried to make a priority in my development is to adhere to the current Web Standards, and not to include any technologies in a finished production project that doesn't fulfill the correct experience on all devices. The same goes to any tools that may be deprecated in the near future. Leading to another decison in using Polymer, as it is pushing the standards across the board and is beind adopted by virtually all browser vendors.
+Again, something that I have tried to make a priority in my development is to adhere to the current Web Standards, and not to include any technologies in a finished production project that doesn't fulfill the correct experience on all devices. The same goes to any tools that may be deprecated in the near future. Leading to another decison in using Polymer, as it is pushing the standards across the board and is beind adopted by virtually all browser vendors. You will notice that not all web component features are being implicated into browsers, particularly Safari.<br>
+<b>NOTE: HTML Imports is a feature that is not being developed by Safari so please use another browser such as Chrome, Firefox or Opera to utilise Graftergrads.</b>
 
 <b>3: Future Features / W.I.P</b><br>
 
