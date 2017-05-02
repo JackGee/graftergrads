@@ -1,5 +1,5 @@
 # graftergrads
-Graftergrads - Hardworking Undergraduates
+Graftergrads - Hardworking Undergraduates https://www.graftergrads.co.uk
 
 <b>1: Description</b><br>
 Graftergrads is a project that I have made which is powered by Polymer and Firebase. It's fundamental use is for the class of Digital Media 2017 at Canterbury Christ Church University (CCCU) to have a profile to showcase themselves in a professional environment. It's optimized use is for the mobile environment and the reasons why are listed in the features section of this readme. The decision to use polymer as Graftergrads's main library comes down to a few things.<br>
